@@ -23,11 +23,11 @@ In addition to learning new tech, I enjoy watching movies especially horror movi
 
 👩‍💻 I'm currently working on a project
 
-🧠 I'm currently learning deep learning
+🧠 I'm currently learning Machine learning
 
-👯‍♀️ I'm looking to collaborate on some deep learning projects
+👯‍♀️ I'm looking to collaborate on Data science  projects
 
-📫 More details loading..
+📫 Here is how to reach me nwanduben@gmail.com
 
 
 
